@@ -1,6 +1,5 @@
 <p align='right'>
-<a href='https://drone.io/speter-go1/gcfg/latest'><img width='80' align='absmiddle' height='18' src='https://drone.io/speter-go1/gcfg/status.png' /></a>
-<a href='http://godoc.org/code.google.com/p/gcfg'><img width='94' align='absmiddle' height='18' alt='GoDoc' src='https://godoc.org/code.google.com/p/gcfg?status.png' /></a>
+<a href='https://drone.io/github.com/jinuljt/gcfg/latest'><img width='80' align='absmiddle' height='18' src='https://drone.io/github.com/jinuljt/gcfg/status.png' /></a>
 </p>
 
 
