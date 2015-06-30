@@ -9,8 +9,8 @@ import (
 )
 
 import (
-	"github.com/jinuljt/gcfg/scanner"
-	"github.com/jinuljt/gcfg/token"
+	"github.com/WaimaiChaoren/gcfg/scanner"
+	"github.com/WaimaiChaoren/gcfg/token"
 )
 
 var unescape = map[rune]rune{'\\': '\\', '"': '"', 'n': '\n', 't': '\t'}

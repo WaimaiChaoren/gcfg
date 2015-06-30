@@ -19,7 +19,7 @@ import (
 )
 
 import (
-	"github.com/jinuljt/gcfg/token"
+	"github.com/WaimaiChaoren/gcfg/token"
 )
 
 // An ErrorHandler may be provided to Scanner.Init. If a syntax error is
